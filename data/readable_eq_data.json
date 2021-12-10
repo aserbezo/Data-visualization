@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1638004881000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson",
+        "title": "USGS Significant Earthquakes, Past Month",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 8
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.2,
+                "place": "19 km SW of Falam, Myanmar",
+                "time": 1637883941750,
+                "updated": 1637970659376,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fx45",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000fx45.geojson",
+                "felt": 287,
+                "cdi": 8.1,
+                "mmi": 6.548,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 824,
+                "net": "us",
+                "code": "7000fx45",
+                "ids": ",us7000fx45,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 3.842,
+                "rms": 0.83,
+                "gap": 21,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.2 - 19 km SW of Falam, Myanmar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.5248,
+                    22.81,
+                    42.45
+                ]
+            },
+            "id": "us7000fx45"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4,
+                "place": "7 km S of Williamsville, Missouri",
+                "time": 1637203983820,
+                "updated": 1637977702617,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60363582",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nm60363582.geojson",
+                "felt": 5209,
+                "cdi": 5.4,
+                "mmi": 4.838,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 786,
+                "net": "nm",
+                "code": "60363582",
+                "ids": ",nm60363582,us7000fuzj,",
+                "sources": ",nm,us,",
+                "types": ",dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 99,
+                "dmin": 0.1577,
+                "rms": 0.23,
+                "gap": 44,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 4.0 - 7 km S of Williamsville, Missouri"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.543,
+                    36.9076667,
+                    16.46
+                ]
+            },
+            "id": "nm60363582"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.86,
+                "place": "1km NE of San Ramon, CA",
+                "time": 1637178223550,
+                "updated": 1637627029422,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73654060",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73654060.geojson",
+                "felt": 4707,
+                "cdi": 4.2,
+                "mmi": 4.558,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 649,
+                "net": "nc",
+                "code": "73654060",
+                "ids": ",ew1637178220,nc73654060,us7000fuwg,",
+                "sources": ",ew,nc,us,",
+                "types": ",dyfi,focal-mechanism,moment-tensor,nearby-cities,origin,phase-data,scitech-link,shake-alert,shakemap,",
+                "nst": 221,
+                "dmin": 0.001948,
+                "rms": 0.12,
+                "gap": 35,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 3.9 - 1km NE of San Ramon, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9688333,
+                    37.7891667,
+                    10.3
+                ]
+            },
+            "id": "nc73654060"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "southern Iran",
+                "time": 1636891718970,
+                "updated": 1637267761971,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fu12",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000fu12.geojson",
+                "felt": 204,
+                "cdi": 8.6,
+                "mmi": 7.49,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 825,
+                "net": "us",
+                "code": "7000fu12",
+                "ids": ",us7000fu12,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 2.781,
+                "rms": 0.84,
+                "gap": 52,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 6.3 - southern Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.0766,
+                    27.7361,
+                    10
+                ]
+            },
+            "id": "us7000fu12"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6,
+                "place": "62 km NNW of Bandar Abbas, Iran",
+                "time": 1636891623462,
+                "updated": 1637163939755,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fu0x",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000fu0x.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": 7.405,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "us",
+                "code": "7000fu0x",
+                "ids": ",us7000fu0x,",
+                "sources": ",us,",
+                "types": ",ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 2.767,
+                "rms": 0.89,
+                "gap": 28,
+                "magType": "mwb",
+                "type": "earthquake",
+                "title": "M 6.0 - 62 km NNW of Bandar Abbas, Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.0653,
+                    27.7211,
+                    6.97
+                ]
+            },
+            "id": "us7000fu0x"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "177 km SE of Hirara, Japan",
+                "time": 1636559113651,
+                "updated": 1637128104231,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fszl",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000fszl.geojson",
+                "felt": 28,
+                "cdi": 6.5,
+                "mmi": 4.085,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 688,
+                "net": "us",
+                "code": "7000fszl",
+                "ids": ",at00r2d3bo,us7000fszl,pt21314000,",
+                "sources": ",at,us,pt,",
+                "types": ",dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 3.26,
+                "rms": 0.8,
+                "gap": 15,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.6 - 177 km SE of Hirara, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.4478,
+                    23.5934,
+                    12
+                ]
+            },
+            "id": "us7000fszl"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.2,
+                "place": "61 km S of Masachapa, Nicaragua",
+                "time": 1636439117066,
+                "updated": 1636525730606,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fskw",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000fskw.geojson",
+                "felt": 109,
+                "cdi": 6.3,
+                "mmi": 4.802,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 660,
+                "net": "us",
+                "code": "7000fskw",
+                "ids": ",us7000fskw,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.949,
+                "rms": 1.38,
+                "gap": 89,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.2 - 61 km S of Masachapa, Nicaragua"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.5185,
+                    11.2315,
+                    35
+                ]
+            },
+            "id": "us7000fskw"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.7,
+                "place": "50 km ENE of Los Andes, Chile",
+                "time": 1635909468835,
+                "updated": 1637814161466,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr0v",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000fr0v.geojson",
+                "felt": 449,
+                "cdi": 5.1,
+                "mmi": 4.994,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 729,
+                "net": "us",
+                "code": "7000fr0v",
+                "ids": ",us7000fr0v,",
+                "sources": ",us,",
+                "types": ",dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.403,
+                "rms": 0.74,
+                "gap": 18,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.7 - 50 km ENE of Los Andes, Chile"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.0776,
+                    -32.7024,
+                    102.56
+                ]
+            },
+            "id": "us7000fr0v"
+        }
+    ],
+    "bbox": [
+        -121.9688333,
+        -32.7024,
+        6.97,
+        126.4478,
+        37.7891667,
+        102.56
+    ]
+}
